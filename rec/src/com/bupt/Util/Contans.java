@@ -16,7 +16,7 @@ public class Contans {
     public static final int sendPort = 10005;
 
     //路由器IP地址
-    public static final String routeIP = "127.0.0.1";
+    public static final String routeIP = /*"127.0.0.1"*/"10.108.245.100";
     //路由器监听端口
     public static final int routePort =10006;
     //接收端IP地址
